@@ -28,6 +28,8 @@ def promediar():
     else:
         return 0   # si no se ingresó ningún número
 
+######
+
 # Uso
 print("El promedio es:", promediar())
 
